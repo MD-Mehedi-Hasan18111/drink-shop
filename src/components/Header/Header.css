@@ -1,0 +1,14 @@
+.banner{
+    background-image: url('banner-bg1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 90vh;
+}
+
+/* .banner-nav{
+    overflow: hidden;
+} */
+
+.intro{
+    margin-top: 100px;
+}
